@@ -45,7 +45,7 @@
 </a>
 
 <a href="https://github.com/hiteshgarg123/CORONA-TRACKER">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=hiteshgarg123&repo=CORONA-TRACKER&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hiteshgarg123&repo=CORONA-TRACKER&theme=dracula" />
 </a>
 <a href="https://github.com/hiteshgarg123/time-tracker">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hiteshgarg123&repo=time-tracker&theme=dracula" />
