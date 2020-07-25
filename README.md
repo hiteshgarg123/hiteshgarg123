@@ -1,16 +1,48 @@
-### Hi there 👋
+## Hola, I'm Hitesh ! 👋
 
-<!--
-**hiteshgarg123/hiteshgarg123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hiteshgarg123&label=Views&color=blue&style=plastic" alt="hiteshgarg123" /> </p>
 
-Here are some ideas to get you started:
+<a href="https://twitter.com/hiteshgarg285">
+  <img align="left" alt="Hitesh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://github.com/hiteshgarg123">
+  <img align="left" alt="Hitesh's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://t.me/hiteshgarg">
+  <img align="left" alt="Hitesh's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://instagram.com/hiteshgarg2855/">
+  <img align="left" alt="Hitesh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/hiteshgarg285/">
+  <img align="left" alt="Hitesh's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<br/>
+
+- 🔭 I’m currently working on Flutter.
+- 🌱 I’m currently learning Flutter.
+- 👯 I’m looking to collaborate on [GitHub](https://github.com/hiteshgarg123).
+- 💬 Ask me about Flutter or any tech related stuff.
+- ⚡ Fun fact: Flutter is more than a framework.
+
+[![Twitter: hiteshgarg285](https://img.shields.io/twitter/follow/hiteshgarg285?style=social)](https://twitter.com/hiteshgarg285)
+[![GitHub hiteshgarg123](https://img.shields.io/github/followers/hiteshgarg123?label=follow&style=social)](https://github.com/hiteshgarg123)
+
+<a href="https://github.com/hiteshgarg123">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=hiteshgarg123&show_icons=true&theme=dracula&line_height=27" alt="Hitesh's github stats"/>
+</a>
+
+<a href="https://github.com/hiteshgarg123/CORONA-TRACKER">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hiteshgarg123&repo=CORONA-TRACKER&theme=dark" />
+</a>
+<a href="https://github.com/hiteshgarg123/time-tracker">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hiteshgarg123&repo=time-tracker&theme=dark" />
+</a>
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
