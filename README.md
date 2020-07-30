@@ -1,4 +1,4 @@
-## Hola, I'm Hitesh ! 👋
+## Hola, I'm Hitesh GoD ! 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiteshgarg123&label=Views&color=blue&style=plastic" alt="hiteshgarg123" /> </p>
 
@@ -21,11 +21,22 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on Flutter.
-- 🌱 I’m currently learning Flutter.
+- 🔭 I’m currently working on Flutter and I am Gowd Lebul Pro At It.
+- 🌱 I’m The Founder of Flutter.
 - 👯 I’m looking to collaborate on [GitHub](https://github.com/hiteshgarg123).
-- 💬 Ask me about Flutter or any tech related stuff.
-- ⚡ Fun fact: Flutter is more than a framework.
+- 💬 Ask me about anything i am Polymath I know everything.
+- ⚡ Fun fact:I am Ghod lebul Curious in Diffrent field and Master in Following.
+<br/>
+<br/>-Developer
+<br/>-Designer
+<br/>-Blogger
+<br/>-DevOPs
+<br/>-Techie
+<br/>-Geek
+<br/>-ROM Developer
+<br/>-Gaawd Lebul Mathematician
+<br/>-Gawd at Solving the Electrical Problem Based on Kirchoff’s Voltage Law (KVL).Thevenen Law,Nortan Law,CMR etc
+<br/>-Great Intrest in So many field i don't even Remember it now.
 
 [![Twitter: hiteshgarg285](https://img.shields.io/twitter/follow/hiteshgarg285?style=social)](https://twitter.com/hiteshgarg285)
 [![GitHub hiteshgarg123](https://img.shields.io/github/followers/hiteshgarg123?label=follow&style=social)](https://github.com/hiteshgarg123)
